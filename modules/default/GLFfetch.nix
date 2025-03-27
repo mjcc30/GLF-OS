@@ -24,7 +24,7 @@ in
     ];
 
     ### NerdFonts
- fonts.packages = with pkgs; [ pkgs.nerd-fonts.noto ];
+ fonts.packages = with pkgs; [ nerdfonts.noto ];
 
   };
 
